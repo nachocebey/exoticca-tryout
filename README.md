@@ -1,8 +1,5 @@
 # Exoticca Technical Test - Nacho Cebey
 
-
-# Exoticca Technical Test
-
 Hello! I'm Nacho Cebery, and this is my technical test for Exoticca.
 
 ## Getting Started
