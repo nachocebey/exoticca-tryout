@@ -1,0 +1,22 @@
+.pill {
+  height: 24px;
+  display: flex;
+  align-items: center;
+  padding: 4px 8px;
+  font-size: 0.75rem;
+  background-color: rgb(229, 229, 229);
+  color: rgb(18, 18, 18);
+  border: 1.5px solid rgb(229, 229, 229);
+  border-radius: 100px;
+}
+
+.pill-special {
+  display: flex;
+  align-items: center;
+  padding: 4px 8px;
+  font-size: 0.75rem;
+  color: rgb(42, 42, 42);
+  border: 1.5px solid rgb(202, 202, 202);
+  background-color: transparent;
+  border-radius: 100px;
+}

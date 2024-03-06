@@ -1,0 +1,220 @@
+{
+  "id": 17170,
+  "title": "Victoria Falls, Safari Days & Giant Dunes",
+  "destination": "Zimbabwe, Botswana & Namibia",
+  "images": [
+    {
+      "desktop": "https://static-us.exoticca.com/img/p/17170/357309.jpg",
+      "tablet": "https://static-us.exoticca.com/img/p/17170/357309_t.jpg",
+      "mobile": "https://static-us.exoticca.com/img/p/17170/357309_m.jpg"
+    },
+    {
+      "desktop": "https://static-us.exoticca.com/img/p/17170/355580.jpg",
+      "tablet": "https://static-us.exoticca.com/img/p/17170/355580_t.jpg",
+      "mobile": "https://static-us.exoticca.com/img/p/17170/355580_m.jpg"
+    },
+    {
+      "desktop": "https://static-us.exoticca.com/img/p/17170/355587.jpg",
+      "tablet": "https://static-us.exoticca.com/img/p/17170/355587_t.jpg",
+      "mobile": "https://static-us.exoticca.com/img/p/17170/355587_m.jpg"
+    },
+    {
+      "desktop": "https://static-us.exoticca.com/img/p/17170/355583.jpg",
+      "tablet": "https://static-us.exoticca.com/img/p/17170/355583_t.jpg",
+      "mobile": "https://static-us.exoticca.com/img/p/17170/355583_m.jpg"
+    },
+    {
+      "desktop": "https://static-us.exoticca.com/img/p/17170/355584.jpg",
+      "tablet": "https://static-us.exoticca.com/img/p/17170/355584_t.jpg",
+      "mobile": "https://static-us.exoticca.com/img/p/17170/355584_m.jpg"
+    },
+    {
+      "desktop": "https://static-us.exoticca.com/img/p/17170/357069.jpg",
+      "tablet": "https://static-us.exoticca.com/img/p/17170/357069_t.jpg",
+      "mobile": "https://static-us.exoticca.com/img/p/17170/357069_m.jpg"
+    },
+    {
+      "desktop": "https://static-us.exoticca.com/img/p/17170/357070.jpg",
+      "tablet": "https://static-us.exoticca.com/img/p/17170/357070_t.jpg",
+      "mobile": "https://static-us.exoticca.com/img/p/17170/357070_m.jpg"
+    },
+    {
+      "desktop": "https://static-us.exoticca.com/img/p/17170/357071.jpg",
+      "tablet": "https://static-us.exoticca.com/img/p/17170/357071_t.jpg",
+      "mobile": "https://static-us.exoticca.com/img/p/17170/357071_m.jpg"
+    },
+    {
+      "desktop": "https://static-us.exoticca.com/img/p/17170/355586.jpg",
+      "tablet": "https://static-us.exoticca.com/img/p/17170/355586_t.jpg",
+      "mobile": "https://static-us.exoticca.com/img/p/17170/355586_m.jpg"
+    },
+    {
+      "desktop": "https://static-us.exoticca.com/img/p/17170/355582.jpg",
+      "tablet": "https://static-us.exoticca.com/img/p/17170/355582_t.jpg",
+      "mobile": "https://static-us.exoticca.com/img/p/17170/355582_m.jpg"
+    }
+  ],
+  "productAnimation": null,
+  "days": 19,
+  "url": "/us/tours/africa/17170-victoria-falls-safari-days-giant-dunes",
+  "map": {
+    "showImage": true,
+    "image": {
+      "desktop": "https://uploads.exoticca.com/p/17170/53386/i/ism_d.jpg",
+      "tablet": "https://uploads.exoticca.com/p/17170/53386/i/ism_d.jpg",
+      "mobile": "https://uploads.exoticca.com/p/17170/53386/i/ism_m.jpg",
+      "horizontal": "https://uploads.exoticca.com/p/17170/53386/i/ism_horizontal_aspect_ratio_3_29.jpg",
+      "horizontalSmall": "https://uploads.exoticca.com/p/17170/53386/i/ism_horizontal_small.jpg"
+    }
+  },
+  "highlights": [
+    {
+      "title": "Chobe National Park",
+      "url": "https://uploads.exoticca.com/global/destination/poi/chobe-national-park.png"
+    },
+    {
+      "title": "Ghanzi",
+      "url": "https://uploads.exoticca.com/global/destination/poi/ghanzi.png"
+    },
+    {
+      "title": "Makgadikgadi Pans",
+      "url": "https://uploads.exoticca.com/global/destination/poi/makgadikgadi-pans.png"
+    },
+    {
+      "title": "Victoria Falls",
+      "url": "https://uploads.exoticca.com/global/destination/poi/victoria-falls.png"
+    },
+    {
+      "title": "Deadvlei",
+      "url": "https://uploads.exoticca.com/global/destination/poi/deadvlei.png"
+    },
+    {
+      "title": "Dune 45",
+      "url": "https://uploads.exoticca.com/global/destination/poi/dune-45.png"
+    },
+    {
+      "title": "Etosha National Park",
+      "url": "https://uploads.exoticca.com/global/destination/poi/etosha.png"
+    },
+    {
+      "title": "Namib Naukluft",
+      "url": "https://uploads.exoticca.com/global/destination/poi/namib-naukluft.png"
+    },
+    {
+      "title": "Sesriem Canyon",
+      "url": "https://uploads.exoticca.com/global/destination/poi/sesriem-canyon.png"
+    },
+    {
+      "title": "Sossusvlei",
+      "url": "https://uploads.exoticca.com/global/destination/poi/sossusvlei.png"
+    }
+  ],
+  "includes": [
+    "ACCOMMODATION",
+    "ALL_FLIGHTS",
+    "ALL_TRANSFERS",
+    "SOME_MEALS",
+    "ACTIVITIES"
+  ],
+  "priceDetail": {
+    "fromPrice": 6199,
+    "fromPriceBeautify": "$6,199",
+    "discountSaved": 2110,
+    "oldPriceBeautify": "$8,309",
+    "pricingPercentage": 25,
+    "pricePerNight": "$344",
+    "oldPrice": 8309
+  },
+  "tags": [
+    {
+      "alias": "Multi-Country",
+      "name": "Multi-Country",
+      "description": "Travel across multiple countries with the same trip",
+      "categoryName": "",
+      "uri": "/us/landing/multi-country-tours",
+      "tagId": "0a28fab1-87de-4c0b-9928-41c1bde95e77"
+    },
+    {
+      "alias": "Nature",
+      "name": "Nature",
+      "description": "Trips with visits to natural environments",
+      "categoryName": "",
+      "uri": "/us/landing/nature-tours",
+      "tagId": "0c081d29-cd34-416e-988f-e04aff45abe1"
+    },
+    {
+      "alias": "Couples",
+      "name": "Couples",
+      "description": "Romantic getaways for couples",
+      "categoryName": "",
+      "uri": "/us/landing/couples-tours",
+      "tagId": "29ecd7d8-c195-43f2-adf9-dd71252dcda8"
+    },
+    {
+      "alias": "PROMOTED",
+      "name": "PROMOTED",
+      "description": "",
+      "categoryName": "",
+      "uri": "/us/landing/early-bird",
+      "tagId": "53fba6e6-fed1-4755-a0e2-0847a5723eba"
+    },
+    {
+      "alias": "Safari",
+      "name": "Safari",
+      "description": "Trips with animal safaris",
+      "categoryName": "",
+      "uri": "/us/landing/safari-tours",
+      "tagId": "65ea3c19-c53f-4b47-a12d-f2c9bba849bf"
+    },
+    {
+      "alias": "Family",
+      "name": "Family",
+      "description": "Trips suitable for families with children ",
+      "categoryName": "",
+      "uri": "/us/landing/family-tours",
+      "tagId": "bdc09d1a-e972-46cc-a49d-af89efaea063"
+    },
+    {
+      "alias": "New",
+      "name": "New!",
+      "description": "Brand new adventures and experiences designed by our expert travel crafters",
+      "categoryName": "",
+      "uri": "/us/landing/new",
+      "tagId": "bea1488c-70ae-48cb-8698-4716dade699d"
+    }
+  ],
+  "crafterDetail": null,
+  "hasPrivateTour": false,
+  "hasSoloTraveller": true,
+  "headLine": null,
+  "tagHeadLine": [
+    {
+      "alias": "PROMOTED",
+      "name": "PROMOTED",
+      "category": "",
+      "uri": "/us/landing/early-bird",
+      "isWinner": false,
+      "uuid": "53fba6e6-fed1-4755-a0e2-0847a5723eba"
+    }
+  ],
+  "tagBottomLine": [
+    {
+      "alias": "New",
+      "name": "New!",
+      "category": "",
+      "uri": "/us/landing/new",
+      "isWinner": false,
+      "uuid": "bea1488c-70ae-48cb-8698-4716dade699d"
+    }
+  ],
+  "isLandOnly": false,
+  "isValid": true,
+  "extraNights": 5,
+  "isNew": true,
+  "isPromoted": true,
+  "isFlashSales": false,
+  "fcpFixedPrice": {
+    "hasFcpFixedPrice": false,
+    "price": 0
+  }
+}
