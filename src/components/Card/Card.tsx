@@ -10,8 +10,6 @@ type Props = {
 };
 
 const Card: React.FC<Props> = ({ trip }) => {
-  console.log(trip);
-  
   const {
     id,
     title,
